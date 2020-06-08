@@ -12,7 +12,14 @@ section {
 }
 
 .banner {
-  background-image: url("../images/banner-background.jpg");
+  height: 400px;
+  background-image: url("../images/CoVidCraSherLoGo.png");
   background-repeat: no-repeat;
   background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+}
+
+.banner-button {
+  padding-top: 175px;
 }
