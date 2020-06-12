@@ -13,7 +13,7 @@ section {
 
 .banner {
   height: 400px;
-  background-image: url("../images/CoVidCraSherLoGo.png");
+  background-image: url("../images/CoVidCraSherLoGo2.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position-x: center;
@@ -22,4 +22,10 @@ section {
 
 .banner-button {
   padding-top: 175px;
+}
+
+.carousel-image {
+  height: 400px;
+  object-fit: contain;
+  width: 100%;
 }
